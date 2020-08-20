@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dab6bf9a-c32a-40df-aab1-8bcd0e22edb3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm_mindmap/~$动态规划.mmap.~$lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm_mindmap/滑动窗口/~$滑动窗口.mmap.~$lock" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597892327442</updated>
-      <workItem from="1597892329125" duration="17002000" />
+      <workItem from="1597892329125" duration="17631000" />
     </task>
     <servers />
   </component>
